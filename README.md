@@ -13,7 +13,7 @@ you'll find it all in this repo.
 * started with EDA 
 * prepare data for training 
 * trained the data in different models ( linear Regression , Stochastic Gradient Descent, Artficial Neural Network,SVM Regressor)
-
+* choose Ridge regression for deployment ( I'll post project in my github soon )
 
 
 ## Result
